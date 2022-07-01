@@ -8,8 +8,8 @@
 * The problem with pause, was with scope, because where i used clearInterval, i had a problem to accessing variable.
 
 > Project images
-![Project](ProjectImage.ProjectImage.png)
-![Timer](ProjectImage.Timer.png)
+![Project](ProjectImage.png)
+![Timer](Timer.png)
 
 > Project Link
-> 
+> https://samuellsantos.github.io/Stopwatch/
