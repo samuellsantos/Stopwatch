@@ -12,4 +12,4 @@
 ![Timer](Timer.png)
 
 > Project Link
-> https://samuellsantos.github.io/Stopwatch/
+> https://samuellsantos.github.io/Stopwatch/stoptwatch.html
